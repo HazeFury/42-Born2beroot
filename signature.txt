@@ -1,0 +1,1 @@
+4e8c0b8be9d521659a2e7b8b450d35754c346152  ../../../sgoinfre/test2vm/test2/test2.vdi
